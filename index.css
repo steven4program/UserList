@@ -1,0 +1,56 @@
+body {
+  background-color: #fbe7c6;
+}
+
+.navbar {
+  background-color: #d8a7b1 !important;
+  font-family: "Dancing Script", cursive;
+  font-size: 24px;
+}
+
+.navbar-brand {
+  font-size: 32px;
+}
+
+#search-input {
+  font-family: "Source Code Pro", monospace;
+}
+
+.card {
+  background-color: #b6e2d3;
+  font-family: "Source Code Pro", monospace;
+}
+
+#whole-modal {
+  background-color: #fbe7c6;
+  font-family: "Source Code Pro", monospace;
+}
+
+.btn-show-user {
+  background-color: #ffc2c7;
+}
+
+.btn-show-user:hover,
+.btn-show-user:active,
+.btn-show-user:focus {
+  background-color: #e2808a;
+  color: #000;
+}
+
+.avatar {
+  width: 100%;
+}
+
+.red {
+  color: #ff0000;
+}
+
+.red:hover {
+  transform: scale(1.2);
+  color: #ff0000;
+}
+
+.red:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
